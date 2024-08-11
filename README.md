@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/invertclothing)
@@ -18,7 +18,7 @@
 
 ### Demo Screeshots
 
-![Invertclothing Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Invertclothing Desktop Demo](./assets/images/regular-tess.jpg "Desktop Demo")
 
 
 
