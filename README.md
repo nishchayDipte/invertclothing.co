@@ -10,7 +10,7 @@
 
   invert is a fully responsive ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://nishchaydipte.github.io/my-website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://invertclothing.co/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
